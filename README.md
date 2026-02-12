@@ -6,6 +6,11 @@ This API allows the Halo Hermina call-center application to create patient appoi
 
 The request payload uses the same parameter format as the Afya API (PascalCase/camelCase keys).
 
+# URL
+
+- **Production:** <https://api.herminahospitals.com>
+- **Staging:** <https://api.herminahospital.com>
+
 ## Authentication
 
 All requests must include HTTP Basic Auth credentials via the `Authorization` header.
